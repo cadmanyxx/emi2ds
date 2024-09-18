@@ -88,5 +88,17 @@ console.log(comparacao02)
 // 0 -> false
 // 1 -> true
 
-console.log(0 == false); //retorna verdadeira
-console.log(''== false); // retorna verdadeira
+console.log(0 == false); //retorna verdadeira(True)
+console.log(''== false); // retorna verdadeira(True)
+console.log(1 == true); // retorna verdadeira(True)
+
+console.log(contaPaga == 1);
+
+// Undefined -> Não definido;
+// null -> vazio ou nule;
+
+let minhaVar;
+let varNull;
+let numero = 3;
+let string = 'oi';
+ 
